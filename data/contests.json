@@ -1,36 +1,12 @@
 {
   "meta": {
     "limit": 100,
-    "next": "/api/v1/contest/?start__gte=2020-05-31T00%3A00%3A00&username=aryanc403&api_key=mykey&limit=100&offset=100",
+    "next": "/api/v1/contest/?start__gte=2020-05-31T00%3A00%3A00&order_by=start&username=aryanc403&api_key=ea59679a6a759694756a75ceb29ac6f6a12f0205&limit=100&offset=100",
     "offset": 0,
     "previous": null,
-    "total_count": 116
+    "total_count": 117
   },
   "objects": [
-    {
-      "duration": 5400,
-      "end": "2020-06-01T05:00:00",
-      "event": "Weekly Contest 1910",
-      "href": "https://leetcode.com/contest/weekly-contest-191",
-      "id": 19995795,
-      "resource": {
-        "id": 1020,
-        "name": "leetcode.com"
-      },
-      "start": "2020-06-01T03:30:00"
-    },
-    {
-      "duration": 7200,
-      "end": "2020-09-05T18:00:00",
-      "event": "TCO20 Round 4",
-      "href": "https://topcoder.com/community/events/",
-      "id": 19473175,
-      "resource": {
-        "id": 12,
-        "name": "topcoder.com"
-      },
-      "start": "2020-09-05T16:00:00"
-    },
     {
       "duration": 5400,
       "end": "2020-05-31T04:00:00",
@@ -42,6 +18,18 @@
         "name": "leetcode.com"
       },
       "start": "2020-05-31T02:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-05-31T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619819,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-05-31T06:00:00"
     },
     {
       "duration": 6000,
@@ -56,6 +44,510 @@
       "start": "2020-05-31T12:00:00"
     },
     {
+      "duration": 7200,
+      "end": "2020-05-31T16:35:00",
+      "event": "Codeforces Round #646 (Div. 2)",
+      "href": "http://codeforces.com/contests/1363",
+      "id": 20044171,
+      "resource": {
+        "id": 1,
+        "name": "codeforces.com"
+      },
+      "start": "2020-05-31T14:35:00"
+    },
+    {
+      "duration": 388800,
+      "end": "2020-06-06T00:00:00",
+      "event": "HSCTF 7",
+      "href": "https://ctftime.org/event/939/",
+      "id": 17011906,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-01T12:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-06-01T17:00:00",
+      "event": "Replay of BSMRSTU Home Quarantine Contest - 6",
+      "href": "https://toph.co/c/bsmrstu-home-quarantine-contest-6-r",
+      "id": 20073138,
+      "resource": {
+        "id": 110,
+        "name": "toph.co"
+      },
+      "start": "2020-06-01T14:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-03T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620084,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-03T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-04T16:35:00",
+      "event": "Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!",
+      "href": "http://codeforces.com/contests/1362",
+      "id": 20041660,
+      "resource": {
+        "id": 1,
+        "name": "codeforces.com"
+      },
+      "start": "2020-06-04T14:35:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-04T16:35:00",
+      "event": "Codeforces Round #647 (Div. 1) - Thanks, Algo Muse!",
+      "href": "http://codeforces.com/contests/1361",
+      "id": 20041659,
+      "resource": {
+        "id": 1,
+        "name": "codeforces.com"
+      },
+      "start": "2020-06-04T14:35:00"
+    },
+    {
+      "duration": 32400,
+      "end": "2020-06-05T12:30:00",
+      "event": "Nature Hack For Clean Air",
+      "href": "https://www.hackerearth.com/challenges/hackathon/nature-hack-for-clean-air/",
+      "id": 19916989,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-05T03:30:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-06-07T09:00:00",
+      "event": "2020 Defenit CTF",
+      "href": "https://ctftime.org/event/1060/",
+      "id": 19699781,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-05T09:00:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2020-06-15T09:30:00",
+      "event": "June Challenge 2020",
+      "href": "http://www.codechef.com/JUNE20?itm_campaign=contest_listing",
+      "id": 19219680,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-06-05T09:30:00"
+    },
+    {
+      "duration": 1411140,
+      "end": "2020-06-21T18:29:00",
+      "event": "Novartis Data Science Hiring challenge",
+      "href": "https://www.hackerearth.com/challenges/hiring/novartis-data-science-hiring-challenge/",
+      "id": 19585076,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-05T10:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-05T14:20:00",
+      "event": "yukicoder contest",
+      "href": "http://yukicoder.me/contests/266",
+      "id": 19658769,
+      "resource": {
+        "id": 109,
+        "name": "yukicoder.me"
+      },
+      "start": "2020-06-05T12:20:00"
+    },
+    {
+      "duration": 345600,
+      "end": "2020-06-09T17:00:00",
+      "event": "Really Awesome CTF 2020",
+      "href": "https://ctftime.org/event/1051/",
+      "id": 19518056,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-05T17:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-06-06T21:00:00",
+      "event": "BatPwn - BSides Ahmedabad CTF 2020",
+      "href": "https://ctftime.org/event/1065/",
+      "id": 19970997,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-05T21:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-06-07T10:30:00",
+      "event": "CyberHackCTF 2020",
+      "href": "https://ctftime.org/event/1059/",
+      "id": 19699780,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-06T10:30:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2020-06-06T16:30:00",
+      "event": "Code Jam Round 3",
+      "href": "https://codingcompetitions.withgoogle.com/codejam/round/000000000019ff7e",
+      "id": 16820936,
+      "resource": {
+        "id": 35,
+        "name": "codingcompetitions.withgoogle.com"
+      },
+      "start": "2020-06-06T14:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2020-06-06T19:00:00",
+      "event": "Problem 719",
+      "href": "https://projecteuler.net/news",
+      "id": 19553247,
+      "resource": {
+        "id": 65,
+        "name": "projecteuler.net"
+      },
+      "start": "2020-06-06T19:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-07T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619820,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-07T06:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-06-07T09:30:00",
+      "event": "Problem Setter Challenge",
+      "href": "https://www.hackerearth.com/challenges/hackathon/setter-challenge/",
+      "id": 18182772,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-07T06:30:00"
+    },
+    {
+      "duration": 6600,
+      "end": "2020-06-07T13:50:00",
+      "event": "AtCoder Grand Contest 045",
+      "href": "https://atcoder.jp/contests/agc045",
+      "id": 19780957,
+      "resource": {
+        "id": 93,
+        "name": "atcoder.jp"
+      },
+      "start": "2020-06-07T12:00:00"
+    },
+    {
+      "duration": 1900500,
+      "end": "2020-06-30T03:55:00",
+      "event": "Exact Sciences OCR Hack",
+      "href": "https://www.hackerearth.com/challenges/hackathon/exact-sciences-ocr-hack/",
+      "id": 19630785,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-08T04:00:00"
+    },
+    {
+      "duration": 1576800,
+      "end": "2020-06-26T23:00:00",
+      "event": "Silicon Valley IoT & Blockchain Hackathon",
+      "href": "https://www.hackerearth.com/challenges/hackathon/tibco-hackathon/",
+      "id": 20054587,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-08T17:00:00"
+    },
+    {
+      "duration": 68400,
+      "end": "2020-06-10T05:30:00",
+      "event": "NoobCTF 0x1",
+      "href": "https://ctftime.org/event/1064/",
+      "id": 19918160,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-09T10:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-10T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620086,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-10T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-12T14:20:00",
+      "event": "yukicoder contest",
+      "href": "http://yukicoder.me/contests/267",
+      "id": 19661725,
+      "resource": {
+        "id": 109,
+        "name": "yukicoder.me"
+      },
+      "start": "2020-06-12T12:20:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2020-06-15T16:00:00",
+      "event": "Microsoft Q# Coding Contest - Summer 2020 - Warmup",
+      "href": "http://codeforces.com/contests/1356",
+      "id": 19842684,
+      "resource": {
+        "id": 1,
+        "name": "codeforces.com"
+      },
+      "start": "2020-06-12T16:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-06-14T10:00:00",
+      "event": "Midnight Sun CTF 2020 Finals",
+      "href": "https://ctftime.org/event/934/",
+      "id": 17011905,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-13T10:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-13T14:00:00",
+      "event": "ARC: Tokio Marine & Nichido Fire Insurance Programming Contest 2020",
+      "href": "https://atcoder.jp/contests/tokiomarine2020",
+      "id": 20040643,
+      "resource": {
+        "id": 93,
+        "name": "atcoder.jp"
+      },
+      "start": "2020-06-13T12:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-06-14T17:00:00",
+      "event": "WeCTF 2020",
+      "href": "https://ctftime.org/event/1044/",
+      "id": 19368900,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-13T17:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2020-06-13T22:00:00",
+      "event": "Problem 720",
+      "href": "https://projecteuler.net/news",
+      "id": 19553248,
+      "resource": {
+        "id": 65,
+        "name": "projecteuler.net"
+      },
+      "start": "2020-06-13T22:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-14T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619821,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-14T06:00:00"
+    },
+    {
+      "duration": 1317300,
+      "end": "2020-06-30T18:25:00",
+      "event": "Code with GlobalShala - Internship Hackathon",
+      "href": "https://code-with-globalshala.hackerearth.com/",
+      "id": 19836296,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-15T12:30:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-06-17T15:30:00",
+      "event": "Zh3r0 CTF",
+      "href": "https://ctftime.org/event/1062/",
+      "id": 19798335,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-15T15:30:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-17T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620088,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-17T06:00:00"
+    },
+    {
+      "duration": 201300,
+      "end": "2020-06-21T18:25:00",
+      "event": "Juspay Developer Hiring challenge June 2020",
+      "href": "https://www.hackerearth.com/challenges/hiring/juspay-developer-hiring-challenge/",
+      "id": 20091806,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-19T10:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-19T14:20:00",
+      "event": "yukicoder contest",
+      "href": "http://yukicoder.me/contests/268",
+      "id": 19860167,
+      "resource": {
+        "id": 109,
+        "name": "yukicoder.me"
+      },
+      "start": "2020-06-19T12:20:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2020-06-22T16:00:00",
+      "event": "Microsoft Q# Coding Contest - Summer 2020",
+      "href": "http://codeforces.com/contests/1357",
+      "id": 19842683,
+      "resource": {
+        "id": 1,
+        "name": "codeforces.com"
+      },
+      "start": "2020-06-19T16:00:00"
+    },
+    {
+      "duration": 43200,
+      "end": "2020-06-20T18:25:00",
+      "event": "Brute Force 1.0",
+      "href": "https://www.hackerearth.com/challenges/hackathon/brute-force-10/",
+      "id": 19970887,
+      "resource": {
+        "id": 73,
+        "name": "hackerearth.com"
+      },
+      "start": "2020-06-20T06:25:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-06-22T06:30:00",
+      "event": "UUTCTF 2020",
+      "href": "https://ctftime.org/event/1058/",
+      "id": 19659373,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-20T06:30:00"
+    },
+    {
+      "duration": 6600,
+      "end": "2020-06-20T13:50:00",
+      "event": "AtCoder Grand Contest 046",
+      "href": "https://atcoder.jp/contests/agc046",
+      "id": 19781760,
+      "resource": {
+        "id": 93,
+        "name": "atcoder.jp"
+      },
+      "start": "2020-06-20T12:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2020-06-21T01:00:00",
+      "event": "Problem 721",
+      "href": "https://projecteuler.net/news",
+      "id": 19553249,
+      "resource": {
+        "id": 65,
+        "name": "projecteuler.net"
+      },
+      "start": "2020-06-21T01:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-21T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619822,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-21T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-06-21T18:00:00",
+      "event": "SRM 787",
+      "href": "https://topcoder.com/community/events/",
+      "id": 18860080,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-06-21T16:00:00"
+    },
+    {
       "duration": 9000,
       "end": "2020-06-21T18:30:00",
       "event": "June Cook-Off 2020",
@@ -68,28 +560,652 @@
       "start": "2020-06-21T16:00:00"
     },
     {
-      "duration": 9000,
-      "end": "2020-06-01T18:30:00",
-      "event": "Aryan Cook-Off 2020",
-      "href": "http://www.codechef.com/COOK119?itm_campaign=contest_listing",
-      "id": 192196840,
+      "duration": 345600,
+      "end": "2020-06-25T20:00:00",
+      "event": "RedpwnCTF 2020",
+      "href": "https://ctftime.org/event/995/",
+      "id": 18082187,
       "resource": {
-        "id": 20,
-        "name": "codechef.com"
+        "id": 70,
+        "name": "ctftime.org"
       },
-      "start": "2020-06-01T07:00:00"
+      "start": "2020-06-21T20:00:00"
     },
     {
-      "duration": 90000,
-      "end": "2020-06-01T18:30:00",
-      "event": "Aryan2 Cook-Off 2020",
-      "href": "http://www.codechef.com/COOK119?itm_campaign=contest_listing",
-      "id": 1921968400,
+      "duration": 18000,
+      "end": "2020-06-24T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620090,
       "resource": {
-        "id": 200,
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-24T06:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-06-29T10:00:00",
+      "event": "0CTF/TCTF 2020 Quals",
+      "href": "https://ctftime.org/event/1026/",
+      "id": 20022122,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-06-27T10:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-06-27T17:00:00",
+      "event": "June Lunchtime 2020",
+      "href": "http://www.codechef.com/LTIME85?itm_campaign=contest_listing",
+      "id": 19219690,
+      "resource": {
+        "id": 2,
         "name": "codechef.com"
       },
-      "start": "2020-06-01T06:20:00"
+      "start": "2020-06-27T14:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2020-06-28T04:00:00",
+      "event": "Problem 722",
+      "href": "https://projecteuler.net/news",
+      "id": 19811578,
+      "resource": {
+        "id": 65,
+        "name": "projecteuler.net"
+      },
+      "start": "2020-06-28T04:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-06-28T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619823,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-06-28T06:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-07-01T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620092,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-01T06:00:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2020-07-13T09:30:00",
+      "event": "July Challenge 2020",
+      "href": "https://www.codechef.com/JULY20",
+      "id": 19219702,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-07-03T09:30:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-07-05T15:00:00",
+      "event": "ASIS CTF Quals 2020",
+      "href": "https://ctftime.org/event/964/",
+      "id": 17590138,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-03T15:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-07-05T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619824,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-05T06:00:00"
+    },
+    {
+      "duration": 0,
+      "end": "2020-07-05T07:00:00",
+      "event": "Problem 723",
+      "href": "https://projecteuler.net/news",
+      "id": 19811579,
+      "resource": {
+        "id": 65,
+        "name": "projecteuler.net"
+      },
+      "start": "2020-07-05T07:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-07-08T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19620094,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-08T06:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-07-09T13:00:00",
+      "event": "TCO20 Round 2A",
+      "href": "https://topcoder.com/community/events/",
+      "id": 19473171,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-07-09T11:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-07-10T14:20:00",
+      "event": "yukicoder contest",
+      "href": "http://yukicoder.me/contests/269",
+      "id": 20027659,
+      "resource": {
+        "id": 109,
+        "name": "yukicoder.me"
+      },
+      "start": "2020-07-10T12:20:00"
+    },
+    {
+      "duration": 32400,
+      "end": "2020-07-10T22:00:00",
+      "event": "FAUST CTF 2020",
+      "href": "https://ctftime.org/event/1000/",
+      "id": 18208951,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-10T13:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-07-12T07:00:00",
+      "event": "TSG CTF 2020",
+      "href": "https://ctftime.org/event/1004/",
+      "id": 18255499,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-11T07:00:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2020-07-14T17:00:00",
+      "event": "rgbCTF",
+      "href": "https://ctftime.org/event/1042/",
+      "id": 19277573,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-11T17:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-07-12T08:00:00",
+      "event": "Kick Start Round D",
+      "href": "https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff08",
+      "id": 16820942,
+      "resource": {
+        "id": 35,
+        "name": "codingcompetitions.withgoogle.com"
+      },
+      "start": "2020-07-12T05:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-07-12T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619825,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-12T06:00:00"
+    },
+    {
+      "duration": 18000,
+      "end": "2020-07-15T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19757505,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-15T06:00:00"
+    },
+    {
+      "duration": 259200,
+      "end": "2020-07-20T13:00:00",
+      "event": "ICFP Programming Contest",
+      "href": "https://icfpcontest2020.github.io/",
+      "id": 19923800,
+      "resource": {
+        "id": 40,
+        "name": "icfpcontest.org"
+      },
+      "start": "2020-07-17T13:00:00"
+    },
+    {
+      "duration": 36000,
+      "end": "2020-07-18T22:00:00",
+      "event": "ENOWARS 4",
+      "href": "https://ctftime.org/event/1043/",
+      "id": 19344371,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-18T12:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-07-18T18:00:00",
+      "event": "TCO20 Round 2B",
+      "href": "https://topcoder.com/community/events/",
+      "id": 19473172,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-07-18T16:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-07-19T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619826,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-19T05:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2020-07-19T18:30:00",
+      "event": "July Cook-Off 2020",
+      "href": "https://www.codechef.com/COOK120",
+      "id": 19219685,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-07-19T16:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-07-26T10:00:00",
+      "event": "CyBRICS CTF 2020",
+      "href": "https://ctftime.org/event/1012/",
+      "id": 19578740,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-25T10:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-07-25T17:00:00",
+      "event": "July Lunchtime 2020",
+      "href": "https://www.codechef.com/LTIME86",
+      "id": 19219687,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-07-25T14:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-07-26T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19619827,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-07-26T05:00:00"
+    },
+    {
+      "duration": 604800,
+      "end": "2020-08-05T17:00:00",
+      "event": "(Stage 1) MM 119",
+      "href": "https://topcoder.com/community/events/",
+      "id": 18859535,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-07-29T17:00:00"
+    },
+    {
+      "duration": 172800,
+      "end": "2020-08-02T13:30:00",
+      "event": "InCTF 2020",
+      "href": "https://ctftime.org/event/981/",
+      "id": 17891312,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-07-31T13:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-08-01T18:00:00",
+      "event": "TCO20 Round 3A",
+      "href": "https://topcoder.com/community/events/",
+      "id": 19473173,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-08-01T16:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-08-02T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19681183,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-08-02T05:00:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2020-08-17T09:30:00",
+      "event": "August Challenge 2020",
+      "href": "https://www.codechef.com/AUG20",
+      "id": 19219683,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-08-07T09:30:00"
+    },
+    {
+      "duration": 14400,
+      "end": "2020-08-08T17:00:00",
+      "event": "Code Jam Virtual World Finals",
+      "href": "https://codingcompetitions.withgoogle.com/codejam/round/000000000019ff31",
+      "id": 16820937,
+      "resource": {
+        "id": 35,
+        "name": "codingcompetitions.withgoogle.com"
+      },
+      "start": "2020-08-08T13:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-08-09T17:00:00",
+      "event": "PoseidonCTF 1st Edition",
+      "href": "https://ctftime.org/event/1049/",
+      "id": 19476386,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-08-08T17:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-08-09T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19816234,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-08-09T05:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-08-15T15:00:00",
+      "event": "Crypto CTF 2020",
+      "href": "https://ctftime.org/event/963/",
+      "id": 17590137,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-08-14T15:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-08-16T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19816235,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-08-16T05:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2020-08-16T18:30:00",
+      "event": "August Cook-Off 2020",
+      "href": "https://www.codechef.com/COOK121",
+      "id": 19219688,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-08-16T16:00:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-08-18T13:00:00",
+      "event": "TCO20 Round 3B",
+      "href": "https://topcoder.com/community/events/",
+      "id": 19473174,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-08-18T11:00:00"
+    },
+    {
+      "duration": 172798,
+      "end": "2020-08-23T23:59:59",
+      "event": "Google Capture The Flag 2020",
+      "href": "https://ctftime.org/event/1041/",
+      "id": 19275285,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-08-22T00:00:01"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-08-22T17:00:00",
+      "event": "August Lunchtime 2020",
+      "href": "https://www.codechef.com/LTIME87",
+      "id": 19219681,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-08-22T14:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-08-23T06:30:00",
+      "event": "Kick Start Round E",
+      "href": "https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47",
+      "id": 16820943,
+      "resource": {
+        "id": 35,
+        "name": "codingcompetitions.withgoogle.com"
+      },
+      "start": "2020-08-23T03:30:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-08-23T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19875734,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-08-23T05:00:00"
+    },
+    {
+      "duration": 86400,
+      "end": "2020-08-30T17:00:00",
+      "event": "FwordCTF 2020",
+      "href": "https://ctftime.org/event/1066/",
+      "id": 20038488,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-08-29T17:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-08-30T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19949960,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-08-30T05:00:00"
+    },
+    {
+      "duration": 115200,
+      "end": "2020-09-04T09:00:00",
+      "event": "CODEGATE CTF 2020 Finals",
+      "href": "https://ctftime.org/event/1039/",
+      "id": 19195492,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-09-03T01:00:00"
+    },
+    {
+      "duration": 864000,
+      "end": "2020-09-14T09:30:00",
+      "event": "September Challenge 2020",
+      "href": "https://www.codechef.com/SEPT20",
+      "id": 19219696,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-09-04T09:30:00"
+    },
+    {
+      "duration": 7200,
+      "end": "2020-09-05T18:00:00",
+      "event": "TCO20 Round 4",
+      "href": "https://topcoder.com/community/events/",
+      "id": 19473175,
+      "resource": {
+        "id": 12,
+        "name": "topcoder.com"
+      },
+      "start": "2020-09-05T16:00:00"
+    },
+    {
+      "duration": 21600,
+      "end": "2020-09-06T11:00:00",
+      "event": "Программирование - профессионалы (лич. 2019-2020)",
+      "href": "http://dl.gsu.by/LC.jsp?Type=-1&lng=ru",
+      "id": 19949961,
+      "resource": {
+        "id": 4,
+        "name": "dl.gsu.by"
+      },
+      "start": "2020-09-06T05:00:00"
+    },
+    {
+      "duration": 36000,
+      "end": "2020-09-12T22:00:00",
+      "event": "mHackeCTF",
+      "href": "https://ctftime.org/event/1053/",
+      "id": 19588409,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-09-12T12:00:00"
+    },
+    {
+      "duration": 32400,
+      "end": "2020-09-17T15:00:00",
+      "event": "VolgaCTF 2020 Final",
+      "href": "https://ctftime.org/event/1018/",
+      "id": 18604462,
+      "resource": {
+        "id": 70,
+        "name": "ctftime.org"
+      },
+      "start": "2020-09-17T06:00:00"
+    },
+    {
+      "duration": 9000,
+      "end": "2020-09-20T18:30:00",
+      "event": "September Cook-Off 2020",
+      "href": "https://www.codechef.com/COOK122",
+      "id": 19219693,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-09-20T16:00:00"
+    },
+    {
+      "duration": 10800,
+      "end": "2020-09-26T17:00:00",
+      "event": "September Lunchtime 2020",
+      "href": "https://www.codechef.com/LTIME88",
+      "id": 19219704,
+      "resource": {
+        "id": 2,
+        "name": "codechef.com"
+      },
+      "start": "2020-09-26T14:00:00"
     }
   ]
 }
